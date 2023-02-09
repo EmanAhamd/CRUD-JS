@@ -1,0 +1,12 @@
+*{
+    font-family: sans-serif;
+}
+label{
+    font-weight: bold;
+}
+input:focus::placeholder{
+    color: transparent;
+}
+.btn-warning {
+    color: #fff !important;
+}
